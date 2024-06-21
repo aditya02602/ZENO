@@ -12,3 +12,19 @@ Zeno is a voice-assisted search engine built using Python. It leverages the Beau
 - **Accurate Results**: Utilizes Wikipedia and Google Search libraries to enhance search accuracy.
 
   ## Installation
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgements
+
+- The [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) library for making web scraping easier.
+- The [Tkinter](https://docs.python.org/3/library/tkinter.html) library for providing a simple way to create GUIs.
+- The [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) and [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/) libraries for handling voice inputs.
+- The [Wikipedia](https://pypi.org/project/wikipedia-api/) library for accessing Wikipedia content.
+- The [Google-Search-Py](https://pypi.org/project/google-search-py/) library for performing Google searches.

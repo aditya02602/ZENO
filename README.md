@@ -11,7 +11,23 @@ Zeno is a voice-assisted search engine built using Python. It leverages the Beau
 - **Real-Time Search Results**: Displays search results in real-time within the application.
 - **Accurate Results**: Utilizes Wikipedia and Google Search libraries to enhance search accuracy.
 
-  ## Installation
+## Requirements
+beautifulsoup4==4.12.3
+googlesearch_python==1.2.3
+pyttsx3==2.90
+Requests==2.32.3
+SpeechRecognition==3.10.1
+wikipedia==1.4.0
+
+## Dependencies
+
+- Python 3.x
+- Beautiful Soup
+- Tkinter
+- SpeechRecognition
+- PyAudio
+- Wikipedia
+- Google-Search-Py
 
 ## Contributing
 
